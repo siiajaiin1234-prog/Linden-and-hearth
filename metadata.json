@@ -1,0 +1,6 @@
+{
+  "name": "Linden & Hearth Roasters",
+  "description": "Artisanal neighborhood cafe, specialty coffee roastery, scratch bakery, and community journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
